@@ -1,3 +1,4 @@
+![MasterHead](https://media.discordapp.net/attachments/887032490492039208/908292687520743445/eau_de_parfum.png)
 <h1 align="center">Heya!, I'm JumanJi ✨</h1>
 <h3 align="center">A passionate developer from India! Who like to make discord bot and other cool stuff!</h3>
 
