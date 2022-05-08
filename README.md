@@ -5,8 +5,7 @@
 # About
 <h3 align="center">Hiya! I'm JumanJi im a moderator and a developer on discord i make cool stuff with api and js.</h3>
 
-<h3 align="left">Contact:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/__jumanji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__jumanji" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.io/jumanjihub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/jumanjihub" height="30" width="40" /></a>
 </p>
