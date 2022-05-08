@@ -1,6 +1,4 @@
 
-<h1 align="center">Heya!, I'm JumanJi ✨</h1>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jumanjiongithub&label=Profile%20views&color=0e75b6&style=plastic" alt="jumanjiongithub" /> </p>
 <p align="center"> <a href="https://twitter.com/__jumanji" target="blank"><img src="https://img.shields.io/twitter/follow/__jumanji?logo=twitter&style=for-the-badge" alt="__jumanji" /></a> </p>
 
