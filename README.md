@@ -1,20 +1,13 @@
 
 <h1 align="center">Heya!, I'm JumanJi ✨</h1>
-<h3 align="center">A passionate developer! Who like to make discord bot and other cool stuff!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jumanjiongithub&label=Profile%20views&color=0e75b6&style=plastic" alt="jumanjiongithub" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jumanjiongithub&label=Profile%20views&color=0e75b6&style=plastic" alt="jumanjiongithub" /> </p>
+<p align="center"> <a href="https://twitter.com/__jumanji" target="blank"><img src="https://img.shields.io/twitter/follow/__jumanji?logo=twitter&style=for-the-badge" alt="__jumanji" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/__jumanji" target="blank"><img src="https://img.shields.io/twitter/follow/__jumanji?logo=twitter&style=for-the-badge" alt="__jumanji" /></a> </p>
+# About
+<h3 align="center">Hiya! I'm JumanJi im a moderator and a developer on discord i make cool stuff with api and js.</h3>
 
-- 🔭 I’m currently working on **Cap** best moderation and utility bot.
-
-- 🌱 I’m currently learning: **Python for developing discord advance multipurpose bots**
-
-- 💬 Ask me about: **Music, Discord, Video Games :D**
-
-- 📫 Contact me: https://discord.io/jumanjihub
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://twitter.com/__jumanji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__jumanji" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.io/jumanjihub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.io/jumanjihub" height="30" width="40" /></a>
