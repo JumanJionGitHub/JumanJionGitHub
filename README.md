@@ -6,4 +6,4 @@
 <br>
 <br>
 
-[![github-tweets-readme](https://github-tweets-readme.vercel.app/api?id=twitterapi?id=twitter)](https://github.com/JumanJionGitHub/github-tweets-readme)
+[![github-tweets-readme](https://github-tweets-readme.vercel.app/api?id=twitterapi?id=__jumanji)](https://github.com/JumanJionGitHub/github-tweets-readme)
