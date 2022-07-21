@@ -15,8 +15,8 @@
 **Join my cute little community :3**
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
 
-<a href="https://discord.com/users/464457105521508354" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/41650828352837472.png" alt="discord_profile" align="right"/>
+<a href="https://discord.com/users/878264909014663218" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-4/878264909014663218.png" alt="discord_profile" align="right"/>
 </a>
 
 ---
