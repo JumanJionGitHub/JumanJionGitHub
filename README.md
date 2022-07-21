@@ -16,7 +16,7 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
 
 <a href="https://discord.com/users/464457105521508354" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/416508283528937472.png" alt="discord_profile" align="right"/>
+    <img src="https://discord.c99.nl/widget/theme-4/41650828352837472.png" alt="discord_profile" align="right"/>
 </a>
 
 ---
