@@ -1,3 +1,5 @@
+![banner](header.png)
+
 <h2 align="center">
     Hello there! I am <strong>JumanJi</strong> 👋🏻
 </h2>
