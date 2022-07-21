@@ -12,7 +12,16 @@
         <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff69b4&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/JumanJionGitHub" alt="Profile Forks"></a>
     </p>
 
-**Join my cute little community :3**
+<h2 align="center">
+Contact:
+</h2>
+
+<p align="center">
+
+**Join my cute little community!**
+
+</p>
+
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
 
 <a href="https://discord.com/users/878264909014663218" target="_blank">
