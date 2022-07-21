@@ -16,10 +16,7 @@
 Contact:
 </h2>
 
-<p align="center">
-
 **Join my cute little community! :3**
-</p>
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
 
