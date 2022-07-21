@@ -6,4 +6,6 @@
 <br>
 <br>
 
-[![github-tweets-readme](https://github-tweets-readme.vercel.app/api?id=twitterapi?id=__jumanji)](https://github.com/JumanJionGitHub/github-tweets-readme)
+**Join my cute little community :3**
+[![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
+
