@@ -26,5 +26,7 @@ Contact:
 <a href="https://discord.com/users/878264909014663218" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/878264909014663218.png" alt="discord_profile" align="right"/>
 </a>
+<br>
+<br>
 
 ---
