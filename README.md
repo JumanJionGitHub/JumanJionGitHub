@@ -6,6 +6,8 @@
 <br>
 <br>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JumanJionGitHub.visitor-badge&left_text=Hiya%20Visitors)
+
 **Join my cute little community :3**
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](http://discord.gg/fjAhHH6CFh)
 
